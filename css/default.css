@@ -175,8 +175,7 @@ a:hover { color: #036; }
 .ellipsis {
   text-overflow: ellipsis;
   overflow: hidden;
-  white-space: nowrap;
-}
+  white-space: nowrap; }
 
 /* A hack for HTML5 contenteditable attribute on mobile */
 textarea.contenteditable {-webkit-appearance: none;}

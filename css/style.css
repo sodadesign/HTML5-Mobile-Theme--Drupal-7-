@@ -14,14 +14,6 @@ h1 {
  border-bottom: 2px solid #afafb1;
  font-size: 36px;
  line-height: 1em; }
-h1 em, h1 span, h2 span, h3 span {
- color: #bdbdbd;
- font-style: normal; }
-h1 span {
- font-size: 18px;
- text-transform: lowercase;}
-.welcome h1 {
- margin-bottom: 20px; }
 h2 {
  margin-top: 15px;
  font-size: 20px; }
@@ -34,11 +26,6 @@ p {
 img {
  max-width: 100%;
  height: auto; } 
-.note {
- color: #bdbdbd; }
-.caption {
- font-style: italic; 
- color: #666;}
 blockquote {
  margin: 1.5em 0;
  padding: 15px;
